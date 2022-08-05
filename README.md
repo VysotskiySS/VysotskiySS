@@ -32,7 +32,7 @@ Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a
 ## Контакты
 +7 963 944-78-45
 s.vysotsky.nsk@gmail.com
-<a href="https://vk.com/idgwyn"><img src="https://user-images.githubusercontent.com/109433447/183105492-48956232-26e7-47d7-9aa9-dc105e325f2b.svg"></a>
+<a href="https://vk.com/idgwyn"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183105492-48956232-26e7-47d7-9aa9-dc105e325f2b.svg"></a>
 
 ## Языки
 Английский - Чтение технической документации
