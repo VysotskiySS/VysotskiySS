@@ -27,20 +27,13 @@
 - закупка оборудования и расходных материалов.
 
 ## Образование
-### диплом 2012 - Алтайский государственный университет
+### Алтайский государственный университет (диплом 2012)
 - специальность - Автоматизированные системы обработки информации и управления
 
 ## Курсы
 - [Дальневосточный центр онлайн обучения (stepik.org) 2022г. - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
 - [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
 - [Национальный открытый университет "ИНТУИТ" (intuit.ru) 2020г. - Windows 7: Администрирование](https://intuit.ru/verifydiplomas/101326970 "Ссылка на сертификат")
-
-## Контакты
-+7 963 944-78-45  
-<br>
-<a href="mailto:s.vysotskiy.nsk@gmail.com"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183107815-1252cf52-6194-43c1-b3c0-e3479a6e583b.svg"></a>
-<a href="https://vk.com/idgwyn"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183105492-48956232-26e7-47d7-9aa9-dc105e325f2b.svg"></a>
-<a href="https://tlgg.ru/@VysotskiySS"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183107306-c239d666-12bf-446d-b866-814707d0138b.svg">
 
 ## Языки
 Английский - Чтение технической документации
@@ -54,8 +47,13 @@
 ## О себе
 Личные качества: Самообучаемость, исполнительность, со всей серьезностью отношусь к выполнению работы, возложенных задач, поставленных руководством, строго соблюдаю конфиденциальность, психологически устойчив к стрессам. Вредных привычек нет.
 
-Прошел срочную военную службу 2012-2013 г.
-в/ч 35390 Сахалинская обл. г.Анива, 39 ОМСБр
-Военно-учетная специальность - старший радиотелефонист.
-Имел допуск и нес службу в карауле.
+Прошел срочную военную службу 2012-2013 г. в/ч 35390 Сахалинская обл. г.Анива, 39 ОМСБр военно-учетная специальность - старший радиотелефонист. Имел допуск и нес службу в карауле.
+  
 Водительские права категории: B
+
+## Контакты
++7 963 944-78-45  
+<br>
+<a href="mailto:s.vysotskiy.nsk@gmail.com"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183107815-1252cf52-6194-43c1-b3c0-e3479a6e583b.svg"></a>
+<a href="https://vk.com/idgwyn"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183105492-48956232-26e7-47d7-9aa9-dc105e325f2b.svg"></a>
+<a href="https://tlgg.ru/@VysotskiySS"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183107306-c239d666-12bf-446d-b866-814707d0138b.svg">
