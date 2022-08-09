@@ -31,8 +31,8 @@
 - специальность - Автоматизированные системы обработки информации и управления
 
 ## Курсы
-- [Дальневосточный центр онлайн обучения (stepik) 2022 - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
-- [sql-academy.org 2022 Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
+- [Дальневосточный центр онлайн обучения (stepik.ru) 2022 - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
+- [SQL ACADEMY (sql-academy.org) 2022 - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
 
 ## Контакты
 +7 963 944-78-45  
