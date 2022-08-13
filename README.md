@@ -40,7 +40,7 @@
 - [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
 - [Национальный открытый университет "ИНТУИТ" (intuit.ru) 2020г. - Windows 7: Администрирование](https://intuit.ru/verifydiplomas/101326970 "Ссылка на сертификат")
 
-- [Примеры решения практических задач по SQL и техникам тестирования](https://github.com/VysotskiySS/qa_practice/edit/main/README.md)
+- [Примеры решения практических задач по SQL и техникам тестирования](https://github.com/VysotskiySS/qa_practice)
 
 ## Языки
 Английский - Чтение технической документации
