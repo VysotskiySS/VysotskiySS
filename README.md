@@ -41,6 +41,7 @@
 ## Курсы
 - [Дальневосточный центр онлайн обучения (stepik.org) 2022г. - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
 - [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
+- [Тестирование ПО: Postman для тестирования API (stepik.org Автор курса - Константин Барзаковский) 2022г.](https://stepik.org/cert/1669749 "Ссылка на сертификат")
 - [Примеры решения практических задач по SQL и техникам тестирования](https://github.com/VysotskiySS/qa_practice)
 
 ## Языки
