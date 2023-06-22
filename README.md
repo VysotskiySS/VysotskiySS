@@ -66,7 +66,6 @@
 Хобби: пешие прогулки, бег, чтение, музыка.
 
 ## Контакты
-+7 963 944-78-45  
 <br>
 <a href="mailto:s.vysotskiy.nsk@gmail.com"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183107815-1252cf52-6194-43c1-b3c0-e3479a6e583b.svg"></a>
 <a href="https://vk.com/idgwyn"><img height="32" width="32" src="https://user-images.githubusercontent.com/109433447/183105492-48956232-26e7-47d7-9aa9-dc105e325f2b.svg"></a>
