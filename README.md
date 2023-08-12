@@ -4,7 +4,11 @@
 Гражданство: Россия
 
 # Опыт работы
-
+## Практика и задания с курса Вадима Ксендзова
+- [Linux terminal (GitBash) commands](https://github.com/VysotskiySS/qa_practice/blob/main/terminal_commands.md)
+- [GIT_Homework](https://github.com/VysotskiySS/qa_practice/blob/main/GIT_Homework.md)
+- [Postman](https://github.com/VysotskiySS/Postman)
+- [SQL](https://github.com/VysotskiySS/SQL/blob/main/README.md)
 
 ## ФГБУ НИИ Нейронаук и медицины, Новосибирск Май 2020 — н.в.
 [https://neuronm.ru](https://neuronm.ru)
