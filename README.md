@@ -1,14 +1,32 @@
 # Высоцкий Сергей Сергеевич
-32 года
+33 года
 г.Новосибирск, Советский р-он
 Гражданство: Россия
 
 # Опыт работы
 Тестирование мобильного приложения
 
+## ООО "АУДИТ КАЧЕСТВА", Новосибирск Сентябрь 2023 — н.в.
+[https://qasquad.com/ru](https://qasquad.com/ru)
+### Тестировщик ПО:
+- Ручное функциональное тестирование приложений iOS/Android
+- Ручное регрессионное, smoke тестирование приложений iOS/Android
+- Анализ, разработка и использование тестовой документации
+- Внесение обнаруженных ошибок в Баг-трекер и контроль их исправления
+- Учавствовал в написании автотестов для мобильного приложения Android
+
 ## Инструменты и ключевые навыки
 Jira Testrail Redmine Charles Proxy BugCatcher 
+Python Pytest Allure Jankins Uiautomator2 Selenium
 
+## Курсы
+- [Автоматизация тестирования с помощью Selenium и Python (stepik.org) 2024]()
+- [Дальневосточный центр онлайн обучения (stepik.org) 2022г. - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
+- [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
+- [Тестирование ПО: Postman для тестирования API (stepik.org Автор курса - Константин Барзаковский) 2022г.](https://stepik.org/cert/1669749 "Ссылка на сертификат")
+- [Вселенная тестирования, или Как стать тестировщиком (stepik.org Автор курса - компании аутсорс тестирования «Кавычки») 2023г.](https://stepik.org/cert/2036073 "Ссылка на сертификат")
+- [Тестирование ПО: подготовка к сертификации ISTQB Foundation (stepik.org Автор курса - Антон Хохлин) 2023г.](https://stepik.org/cert/2027367 "Ссылка на сертификат")
+- [Примеры решения практических задач](https://github.com/VysotskiySS/qa_practice)
 ## Практика и задания с курса Вадима Ксендзова
 - [Linux terminal (GitBash) commands](https://github.com/VysotskiySS/qa_practice/blob/main/terminal_commands.md)
 - [GIT_Homework](https://github.com/VysotskiySS/qa_practice/blob/main/GIT_Homework.md)
@@ -16,7 +34,7 @@ Jira Testrail Redmine Charles Proxy BugCatcher
 - [SQL](https://github.com/VysotskiySS/SQL/blob/main/README.md)
 - Sandbox Capital.com (Ad-hoc, smoke)
 
-## ФГБУ НИИ Нейронаук и медицины, Новосибирск Май 2020 — н.в.
+## ФГБУ НИИ Нейронаук и медицины, Новосибирск Май 2020 — Август 2023
 [https://neuronm.ru](https://neuronm.ru)
 ### Системный администратор:
 - осуществление технической и программной поддержки пользователей, консультация пользователей;
@@ -43,23 +61,14 @@ Jira Testrail Redmine Charles Proxy BugCatcher
 - администрирование сайта компании;
 - закупка оборудования и расходных материалов.
 
-
 ## Образование
 ### Алтайский государственный университет
 - специальность - Автоматизированные системы обработки информации и управления
 
-## Курсы
-- [Дальневосточный центр онлайн обучения (stepik.org) 2022г. - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
-- [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
-- [Тестирование ПО: Postman для тестирования API (stepik.org Автор курса - Константин Барзаковский) 2022г.](https://stepik.org/cert/1669749 "Ссылка на сертификат")
-- [Вселенная тестирования, или Как стать тестировщиком (stepik.org Автор курса - компании аутсорс тестирования «Кавычки») 2023г.](https://stepik.org/cert/2036073 "Ссылка на сертификат")
-- [Тестирование ПО: подготовка к сертификации ISTQB Foundation (stepik.org Автор курса - Антон Хохлин) 2023г.](https://stepik.org/cert/2027367 "Ссылка на сертификат")
-- [Примеры решения практических задач](https://github.com/VysotskiySS/qa_practice)
-
 ## Языки
 Английский - Чтение технической документации
 
-## Навыки
+## Дополнительные навыки
 - Навыки администрирования операционных систем семейства Linux/Windows
 - Опыт настройки и администрирования оборудования MikroTik
 - Опыт настройки и администрирования IP телефонии Asterisk+FreePBX
