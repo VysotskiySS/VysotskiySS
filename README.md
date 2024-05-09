@@ -16,17 +16,22 @@
 - Учавствовал в написании автотестов для мобильного приложения Android
 
 ## Инструменты и ключевые навыки
-Jira Testrail Redmine Charles Proxy BugCatcher 
-Python Pytest Allure Jankins Uiautomator2 Selenium
+- Jira Testrail Redmine Charles Proxy BugCatcher 
+- Python Pytest Allure Jankins Uiautomator2 Selenium
 
 ## Курсы
-- [Автоматизация тестирования с помощью Selenium и Python (stepik.org) 2024]()
+- [Автоматизация тестирования с помощью Selenium и Python (stepik.org) 2024](https://stepik.org/cert/2455316 "Ссылка на сертификат")
 - [Дальневосточный центр онлайн обучения (stepik.org) 2022г. - Интерактивный тренажер по SQL](https://stepik.org/cert/1551018 "Ссылка на сертификат")
 - [SQL ACADEMY (sql-academy.org) 2022г. - Solving open SQL exercises Certifcate №: 629b9bcdcf0ca1003f124c3a](https://github.com/VysotskiySS/VysotskiySS/files/9269866/certificate.pdf "Ссылка на сертификат")
 - [Тестирование ПО: Postman для тестирования API (stepik.org Автор курса - Константин Барзаковский) 2022г.](https://stepik.org/cert/1669749 "Ссылка на сертификат")
 - [Вселенная тестирования, или Как стать тестировщиком (stepik.org Автор курса - компании аутсорс тестирования «Кавычки») 2023г.](https://stepik.org/cert/2036073 "Ссылка на сертификат")
 - [Тестирование ПО: подготовка к сертификации ISTQB Foundation (stepik.org Автор курса - Антон Хохлин) 2023г.](https://stepik.org/cert/2027367 "Ссылка на сертификат")
 - [Примеры решения практических задач](https://github.com/VysotskiySS/qa_practice)
+
+## Автоматизация тестирования
+- [Проект с курса "Автоматизация тестирования с помощью Selenium и Python" (stepik.org) 2024](https://github.com/VysotskiySS/Selenium_Python "Ссылка на репозиторий")
+- [Проект Автоматизация тестирования мобильного приложения 2024]()
+
 ## Практика и задания с курса Вадима Ксендзова
 - [Linux terminal (GitBash) commands](https://github.com/VysotskiySS/qa_practice/blob/main/terminal_commands.md)
 - [GIT_Homework](https://github.com/VysotskiySS/qa_practice/blob/main/GIT_Homework.md)
