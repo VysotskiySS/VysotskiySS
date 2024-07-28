@@ -30,7 +30,8 @@
 
 ## Автоматизация тестирования
 - [Проект с курса "Автоматизация тестирования с помощью Selenium и Python" (stepik.org) 2024](https://github.com/VysotskiySS/Selenium_Python "Ссылка на репозиторий")
-- [Проект Автоматизация тестирования мобильного приложения 2024]()
+- [Проект Автоматизация тестирования мобильного приложения Relagramm (https://yapmap.app/) 2024](https://github.com/hell1k/AppiumPython)
+- [Проект Автоматизация тестирования мобильного приложения Lime (https://lime-shop.com/) 2024](https://github.com/idvysotskiy/lime_mp_auto)
 
 ## Практика и задания с курса Вадима Ксендзова
 - [Linux terminal (GitBash) commands](https://github.com/VysotskiySS/qa_practice/blob/main/terminal_commands.md)
