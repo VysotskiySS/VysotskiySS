@@ -10,7 +10,7 @@
 ### Инженер по тестированию:
 
 ## Инструменты и ключевые навыки
-- GitLab Proxmox TestY Rudesktop
+- GitLab Proxmox TestY Rudesktop Selene PyAutoGUI
 
 ## ООО "АУДИТ КАЧЕСТВА", Новосибирск Сентябрь 2023 — Сентябрь 2024
 [https://qasquad.com/ru](https://qasquad.com/ru)
