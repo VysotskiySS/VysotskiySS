@@ -41,6 +41,9 @@
 - [Тестирование ПО: подготовка к сертификации ISTQB Foundation (stepik.org Автор курса - Антон Хохлин) 2023г.](https://stepik.org/cert/2027367 "Ссылка на сертификат")
 - [Примеры решения практических задач](https://github.com/VysotskiySS/qa_practice)
 
+## Прочие сертификаты
+- [Регрессионное тестирование (Национальная система оценки ИТ-компетенций)](https://github.com/VysotskiySS/VysotskiySS/blob/main/regress_cert.pdf)
+
 ## Автоматизация тестирования
 - [Проект с курса "Автоматизация тестирования с помощью Selenium и Python" (stepik.org) 2024](https://github.com/VysotskiySS/Selenium_Python "Ссылка на репозиторий")
 - [Проект Автоматизация тестирования мобильного приложения Relagramm (https://yapmap.app/) 2024](https://github.com/hell1k/AppiumPython)
