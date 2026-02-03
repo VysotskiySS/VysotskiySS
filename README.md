@@ -10,17 +10,18 @@
 ### Инженер по тестированию:
 
 ## Инструменты и ключевые навыки
-- GitLab Proxmox TestY Rudesktop Selene Allure 
+- GitLab Proxmox TestY Rudesktop Selene Allure
+- Создание с нуля и последующая поддержка фреймворка автоматизированных тестов на Python (Selene, Python, Pytest, Allure)
+- Разработка телеграм-бота для автоматизации рутинных задач отдела тестирования (python-telegram-bot, requests, bash, proxmox api, kaspersky api)
+- Автоматизация тестирования панели администрирования (Web) (Selene, Python, Pytest, Allure)
+- Автоматизация тестирования мобильного приложения (Android) (Uiautomator2, Python, Pytest, Allure)
+- Разбор отчетов прохождения автоматизированных тестов
+- Написание простых Ansible playbook
 - Ручное функциональное тестирование мобильного приложения Android в т.ч. Mobile Device Management
 - Ручное функциональное тестирование desktop приложения Windows(7-11)/Linux(RedOS, Astra, Alt, Ubuntu...)
 - Ручное функциональное тестирование панели администрирования (Web)
-- Создание с нуля и последующая поддержка фреймворка автоматизированных тестов на Python (Selene, Python, Pytest, Allure)
-- Автоматизация тестирования панели администрирования (Web) (Selene, Python, Pytest, Allure)
-- Автоматизация тестирования мобильного приложения (Android) (Uiautomator2, Python, Pytest, Allure)
-- Написание простых Ansible playbook
-- Разбор отчетов прохождения автоматизированных тестов
-- Разработка телеграм-бота для автоматизации рутинных задач отдела тестирования (python-telegram-bot, requests, bash)
 - Подготовка окружения для тестирования desktop приложения с использованием средств виртуализации Proxmox | Установка, настройка ОС, серверной части продукта, клиента на различных ОС Windows(7-11)/Linux(RedOS, Astra, Alt, Osnova, Ubuntu...)
+- Курировал процесс онбординга новых тестировщиков, выступая в роли ментора
 
 ## ООО "АУДИТ КАЧЕСТВА", Новосибирск Сентябрь 2023 — Сентябрь 2024
 [https://qasquad.com/ru](https://qasquad.com/ru)
