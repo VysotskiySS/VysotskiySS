@@ -11,8 +11,8 @@
 
 ## Инструменты и ключевые навыки
 - GitLab Proxmox TestY Rudesktop Selene Allure
-- Создание с нуля и последующая поддержка фреймворка автоматизированных тестов на Python (Selene, Python, Pytest, Allure)
-- Разработка телеграм-бота для автоматизации рутинных задач отдела тестирования (python-telegram-bot, requests, bash, proxmox api, kaspersky api)
+- Создание с нуля и последующая поддержка фреймворка автоматизированных тестов (Selene, Python, Pytest, Allure)
+- Разработка телеграм-бота для автоматизации рутинных задач отдела тестирования (python-telegram-bot, requests, bash, proxmox api, kaspersky api, gitlab api)
 - Автоматизация тестирования панели администрирования (Web) (Selene, Python, Pytest, Allure)
 - Автоматизация тестирования мобильного приложения (Android) (Uiautomator2, Python, Pytest, Allure)
 - Разбор отчетов прохождения автоматизированных тестов
@@ -50,13 +50,6 @@
 
 ## Автоматизация тестирования
 - [Проект с курса "Автоматизация тестирования с помощью Selenium и Python" (stepik.org) 2024](https://github.com/VysotskiySS/Selenium_Python "Ссылка на репозиторий")
-
-## Практика и задания с курса Вадима Ксендзова
-- [Linux terminal (GitBash) commands](https://github.com/VysotskiySS/qa_practice/blob/main/terminal_commands.md)
-- [GIT_Homework](https://github.com/VysotskiySS/qa_practice/blob/main/GIT_Homework.md)
-- [Postman](https://github.com/VysotskiySS/Postman)
-- [SQL](https://github.com/VysotskiySS/SQL/blob/main/README.md)
-- Sandbox Capital.com (Ad-hoc, smoke)
 
 ## ФГБУ НИИ Нейронаук и медицины, Новосибирск Май 2020 — Август 2023
 [https://neuronm.ru](https://neuronm.ru)
