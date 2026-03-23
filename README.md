@@ -1,5 +1,5 @@
 # Высоцкий Сергей Сергеевич
-34 года
+35 лет
 г.Новосибирск, Советский р-он
 Гражданство: Россия
 
@@ -10,7 +10,7 @@
 ### Инженер по тестированию:
 
 ## Инструменты и ключевые навыки
-- GitLab Proxmox TestY Rudesktop Selene Allure
+- GitLab, Proxmox, TestY, Jira, Rudesktop, Selene, Allure, Codex, Chrome Devtools MCP
 - Создание с нуля и последующая поддержка фреймворка автоматизированных тестов (Selene, Python, Pytest, Allure)
 - Разработка телеграм-бота для автоматизации рутинных задач отдела тестирования (python-telegram-bot, requests, bash, proxmox api, kaspersky api, gitlab api)
 - Автоматизация тестирования панели администрирования (Web) (Selene, Python, Pytest, Allure)
